@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f51cc261-fed3-40be-a0e6-b354d9479944" name="Changes" comment="added more examples of overloading and overriding">
-      <change afterPath="$PROJECT_DIR$/src/EncapsulatedInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsultaion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsultation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsultation3.java" afterDir="false" />
+    <list default="true" id="f51cc261-fed3-40be-a0e6-b354d9479944" name="Changes" comment="Added practice example of Encapsulation and Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/Abstraction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThreadingThing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +47,16 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.demoEncapsulation3">
-    <configuration name="DemoOverloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoOverloading2" />
+  <component name="RunManager" selected="Application.MultiThreading">
+    <configuration name="DemoOverloadingVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoOverloadingVarargs" />
       <module name="OOPs" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoOverloadingVarargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoOverloadingVarargs" />
+    <configuration name="MultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading" />
       <module name="OOPs" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiThreading" />
         <item itemvalue="Application.demoEncapsulation3" />
         <item itemvalue="Application.demoEncapsulation" />
         <item itemvalue="Application.demoEncapsulation1" />
         <item itemvalue="Application.DemoOverloadingVarargs" />
-        <item itemvalue="Application.DemoOverloading2" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1677471700859</updated>
       <workItem from="1677471702806" duration="9882000" />
-      <workItem from="1677590999256" duration="48000" />
+      <workItem from="1677590999256" duration="2838000" />
+      <workItem from="1678181767698" duration="613000" />
+      <workItem from="1678264733715" duration="2652000" />
     </task>
     <task id="LOCAL-00001" summary="added overriding and inheritance example">
       <created>1677474419954</created>
@@ -125,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677477971817</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added practice example of Encapsulation and Inheritance">
+      <created>1677591091217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677591091217</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +155,7 @@
     <MESSAGE value="added overriding and inheritance example" />
     <MESSAGE value="another overriding and inheritance example" />
     <MESSAGE value="added more examples of overloading and overriding" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more examples of overloading and overriding" />
+    <MESSAGE value="Added practice example of Encapsulation and Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added practice example of Encapsulation and Inheritance" />
   </component>
 </project>
